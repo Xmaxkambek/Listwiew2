@@ -7,6 +7,7 @@ class card extends StatefulWidget {
   State<card> createState() => _cardState();
 }
 
+
 class _cardState extends State<card> {
   int? a;
   String? c = '';

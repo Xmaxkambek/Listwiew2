@@ -7,6 +7,7 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: card(),
+        
 
         appBar: AppBar(title: Text('APELSEN'),automaticallyImplyLeading: false ,
         backgroundColor: Color(0xffF1650E,),),
